@@ -1,3 +1,4 @@
+// [C_MM05-易] 計算正方形面積
 #include<stdio.h>
 #include<math.h>
 double x,tmp;

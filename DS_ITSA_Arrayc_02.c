@@ -1,3 +1,4 @@
+// [C_AR02-易] 一維陣列反轉 II
 #include<stdio.h>
 int num[10];
 int main(){

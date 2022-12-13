@@ -1,3 +1,4 @@
+// [C_AR01-易] 一維陣列反轉 I
 #include<stdio.h>
 int inp[200];
 int n = 0,p,x = 0;

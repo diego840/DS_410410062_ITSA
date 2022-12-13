@@ -1,3 +1,4 @@
+// [C_AR11-易] 最大權重和
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>

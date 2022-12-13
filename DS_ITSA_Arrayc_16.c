@@ -1,3 +1,4 @@
+// [C_AR16-易] 統一發票對獎
 #include<stdio.h>
 #include<string.h>
 char invoice[4][9];

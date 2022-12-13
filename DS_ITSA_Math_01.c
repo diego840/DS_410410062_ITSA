@@ -1,3 +1,4 @@
+// [C_MM01-易] 計算梯型面積
 #include<stdio.h>
 double x,y,z;
 double tmp;

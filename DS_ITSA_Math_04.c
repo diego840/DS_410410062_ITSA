@@ -1,3 +1,4 @@
+// [C_MM04-易] 計算總和、乘積、差、商和餘數
 #include<stdio.h>
 int a,b;
 int main(){

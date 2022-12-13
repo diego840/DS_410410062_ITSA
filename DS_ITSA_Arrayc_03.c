@@ -1,3 +1,4 @@
+// [C_AR03-易] 計算陣列中所有元素的立方和
 #include<stdio.h>
 #define n 6
 int x[n];

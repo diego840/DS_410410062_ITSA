@@ -1,3 +1,4 @@
+// [C_AR04-易] 邊緣偵測
 #include<stdio.h>
 int n,row,col;
 int graph[105][105] = {0};

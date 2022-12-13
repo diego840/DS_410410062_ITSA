@@ -1,3 +1,4 @@
+// [C_AR07-中] 有違反數獨的規則嗎？
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>

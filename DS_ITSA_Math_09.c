@@ -1,3 +1,4 @@
+// [C_MM09-易] 計算 i 次方的值
 #include<stdio.h>
 int a,b;
 int main(){

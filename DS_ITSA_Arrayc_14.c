@@ -1,3 +1,4 @@
+// [C_AR14-易] 糖果分享
 #include<stdio.h>
 #include<string.h>
 int N,n,m,L;
